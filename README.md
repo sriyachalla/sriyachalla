@@ -7,14 +7,14 @@
 
 ## Technologies Used
 
-- ![Python](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg)
-- ![JavaScript](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg)
-- ![R](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/r.svg)
-- ![Hugging Face](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg)
-- ![Notion](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg)
-- ![Miro](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/miro.svg)
-
-
+<p align="left">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/r.svg" alt="R" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="Hugging Face" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" alt="Notion" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/miro.svg" alt="Miro" width="50" height="50">
+</p>
 
 
 
