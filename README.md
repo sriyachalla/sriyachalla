@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Machine Learning, Data Science and Web Development...
 - 💞️ I’m looking to collaborate on anything amazing...
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/sriya-challa/
-- 💼 Find my portfolio here: https://sriyachalla.github.io/
+- 💼 Find my portfolio here: https://www.sriyachalla.com/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@sriyareddy1010) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriya-challa/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@sriyachalla) 
